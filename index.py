@@ -20,3 +20,4 @@ for y in range(t):
        print "Yes"
    else:
        print "No"             
+thank you!!
